@@ -1,2 +1,25 @@
-# Smart-Inventory-Sales-Management-System-SISMS-
-Smart Inventory &amp; Sales Management System (SISMS) is a Multi-Tenant SaaS platform that enables business owners to manage multiple businesses, warehouses, branches, inventory, sales, purchases, customers, suppliers, expenses, subscriptions, and reporting from a centralized dashboard using ASP.NET Core MVC and Entity Framework Core.
+# Smart Inventory & Sales Management System (SISMS)
+
+> A Multi-Tenant SaaS Business Management Platform built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
+
+🚧 Project Under Development
+
+## Current Status
+
+This project is currently under active development.
+
+Documentation, setup instructions, screenshots, architecture diagrams, and feature details will be added after the project reaches a stable release.
+
+## Technology Stack
+
+* ASP.NET Core MVC
+* Entity Framework Core
+* SQL Server
+* ASP.NET Core Identity
+* Bootstrap 5
+* JavaScript
+* AJAX
+
+---
+
+More details coming soon...
